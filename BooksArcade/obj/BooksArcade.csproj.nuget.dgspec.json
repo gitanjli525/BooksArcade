@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gitanjlichopra\\Downloads\\this.project\\THISPROJECTS\\mvc crud\\BooksArcade\\BooksArcade\\BooksArcade\\BooksArcade.csproj": {}
+    "D:\\PROJECTS\\BooksArcade\\BooksArcade\\BooksArcade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gitanjlichopra\\Downloads\\this.project\\THISPROJECTS\\mvc crud\\BooksArcade\\BooksArcade\\BooksArcade\\BooksArcade.csproj": {
+    "D:\\PROJECTS\\BooksArcade\\BooksArcade\\BooksArcade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gitanjlichopra\\Downloads\\this.project\\THISPROJECTS\\mvc crud\\BooksArcade\\BooksArcade\\BooksArcade\\BooksArcade.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\BooksArcade\\BooksArcade\\BooksArcade.csproj",
         "projectName": "BooksArcade",
-        "projectPath": "C:\\Users\\gitanjlichopra\\Downloads\\this.project\\THISPROJECTS\\mvc crud\\BooksArcade\\BooksArcade\\BooksArcade\\BooksArcade.csproj",
-        "packagesPath": "C:\\Users\\gitanjlichopra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gitanjlichopra\\Downloads\\this.project\\THISPROJECTS\\mvc crud\\BooksArcade\\BooksArcade\\BooksArcade\\obj\\",
+        "projectPath": "D:\\PROJECTS\\BooksArcade\\BooksArcade\\BooksArcade.csproj",
+        "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\BooksArcade\\BooksArcade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gitanjlichopra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

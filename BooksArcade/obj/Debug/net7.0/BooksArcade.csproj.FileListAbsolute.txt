@@ -29,3 +29,34 @@ C:\Users\gitanjlichopra\Downloads\this.project\THISPROJECTS\mvc crud\BooksArcade
 C:\Users\gitanjlichopra\Downloads\this.project\THISPROJECTS\mvc crud\BooksArcade\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.pdb
 C:\Users\gitanjlichopra\Downloads\this.project\THISPROJECTS\mvc crud\BooksArcade\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.genruntimeconfig.cache
 C:\Users\gitanjlichopra\Downloads\this.project\THISPROJECTS\mvc crud\BooksArcade\BooksArcade\BooksArcade\obj\Debug\net7.0\ref\BooksArcade.dll
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\appsettings.Development.json
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\appsettings.json
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.staticwebassets.runtime.json
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.exe
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.deps.json
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.runtimeconfig.json
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.dll
+D:\PROJECTS\BooksArcade\BooksArcade\bin\Debug\net7.0\BooksArcade.pdb
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.csproj.AssemblyReference.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.AssemblyInfoInputs.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.AssemblyInfo.cs
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.csproj.CoreCompileInputs.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.RazorAssemblyInfo.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.RazorAssemblyInfo.cs
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets\msbuild.BooksArcade.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets\msbuild.build.BooksArcade.props
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BooksArcade.props
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BooksArcade.props
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\scopedcss\bundle\BooksArcade.styles.css
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\scopedcss\projectbundle\BooksArcade.bundle.scp.css
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.dll
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\refint\BooksArcade.dll
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.pdb
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\BooksArcade.genruntimeconfig.cache
+D:\PROJECTS\BooksArcade\BooksArcade\obj\Debug\net7.0\ref\BooksArcade.dll
